@@ -12,9 +12,10 @@ A simple particle simulation of a neutron star accretion disk built using C++ an
 - raylib
 ## Demo
 
-https://github.com/meta-mor-phosis/neutron-star-simulation/assets/simulation.mp4
+https://github.com/meta-mor-phosis/neutron-star-simulation/blob/main/simulation.mp4
 
 
 ## Author
 
 Nitya
+
